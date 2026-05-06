@@ -15,7 +15,7 @@
 # 🧠 ARCHITECT PROFILE
 
 yaml
-name: Jana Abdehrhim
+name: Jana Abdehrahim
 role: Frontend Engineer
 core_stack:
   - Angular
@@ -34,10 +34,6 @@ focus:
   - Performance Optimization
 🛠 TECH STACK
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,cpp,java,c,git,github,vscode&perline=6"/> </div>
-📊 ENGINEERING METRICS
-<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Janaabdehrahim&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janaabdehrahim&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2"/> <img src="https://streak-stats.demolab.com?user=Janaabdehrahim&theme=transparent&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/> </div>
-🐍 CONTRIBUTION FLOW
-<div align="center"> <img src="https://raw.githubusercontent.com/Janaabdehrahim/Janaabdehrahim/output/github-contribution-grid-snake.svg"/> </div>
 🚀 WHAT I BUILD
 
 Large Scale Angular Applications
