@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8A2BE2&height=200&section=header&text=JANA%20ABDEHRHIM&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8A2BE2&height=200&section=header&text=JANA%20ABDEHRAHIM&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ### Frontend Engineer • Angular Architect • Performance Driven
 
@@ -35,9 +35,9 @@ focus:
 🛠 TECH STACK
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap,cpp,java,c,git,github,vscode&perline=6"/> </div>
 📊 ENGINEERING METRICS
-<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Janaabdehrhim&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janaabdehrhim&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2"/> <img src="https://streak-stats.demolab.com?user=Janaabdehrhim&theme=transparent&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/> </div>
+<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Janaabdehrahim&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janaabdehrahim&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2"/> <img src="https://streak-stats.demolab.com?user=Janaabdehrahim&theme=transparent&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/> </div>
 🐍 CONTRIBUTION FLOW
-<div align="center"> <img src="https://raw.githubusercontent.com/Janaabdehrhim/Janaabdehrhim/output/github-contribution-grid-snake.svg"/> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/Janaabdehrahim/Janaabdehrahim/output/github-contribution-grid-snake.svg"/> </div>
 🚀 WHAT I BUILD
 
 Large Scale Angular Applications
