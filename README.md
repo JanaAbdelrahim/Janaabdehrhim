@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8A2BE2&height=200&section=header&text=JANA%20ABDEHRAHIM&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8A2BE2&height=200&section=header&text=JANA%20ABDELRAHIM&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ### Frontend Engineer • Angular Architect • Performance Driven
 
