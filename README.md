@@ -15,7 +15,7 @@
 # 🧠 ARCHITECT PROFILE
 
 yaml
-name: Jana Abdehrahim
+name: Jana Abdelhrahim
 role: Frontend Engineer
 core_stack:
   - Angular
